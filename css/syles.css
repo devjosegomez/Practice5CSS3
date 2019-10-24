@@ -1,0 +1,17 @@
+body{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    background-color: cornsilk;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+    color: red;
+    font-size: 40px;
+}
+
+p{
+    color: blue;
+    font-size: 30px;
+}
